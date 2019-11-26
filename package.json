@@ -1,0 +1,14 @@
+{
+  "name": "require-nodemodules-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack-loader"
+  ],
+  "author": "cjfff",
+  "license": "MIT"
+}
