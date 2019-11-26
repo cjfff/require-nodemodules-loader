@@ -43,7 +43,7 @@ export default {
 ```
 
 
-![效果](https://github.com/cjfff/require-nodemodules-loader/screenshot/loader-preview.png)
+![效果](https://raw.githubusercontent.com/cjfff/require-nodemodules-loader/master/screenshot/loader-preview.png)
 
 
 
