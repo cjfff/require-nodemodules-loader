@@ -21,3 +21,31 @@ module.exports = {
   }
 }
 ```
+
+demo
+```js
+<template>
+  <div class="about">
+    <h1>This is an about page {{decodeURIComponent(data)}}</h1>
+  </div>
+</template>
+
+
+<script>
+export default {
+  data() {
+    return {
+      data: `requireNodeModules('normalize.css')`
+    }
+  }
+}
+</script>
+```
+
+
+![效果](https://github.com/cjfff/require-nodemodules-loader/screenshot/loader-preview.png)
+
+
+
+## TODO
+1. 注释的代码不转换
