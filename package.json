@@ -1,8 +1,12 @@
 {
   "name": "require-nodemodules-loader",
   "version": "1.0.0",
-  "description": "",
+  "description": "webpack nodue_modules loader",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cjfff/require-nodemodules-loader"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
